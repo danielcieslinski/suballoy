@@ -1,0 +1,12 @@
+bokeh
+datashader
+matplotlib
+megnet
+mpl_scatter_density
+numpy
+pandas
+pymatgen
+tqdm
+selenium
+tensorflow
+mendeleev
