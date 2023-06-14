@@ -1,5 +1,5 @@
 # Suballoy: Crystal Graph Neural Networks for Substitutional Alloying
-Welcome to the official repository of **Substitutional Alloying Using Crystal Graph Neural Networks**. This repository contains the code used in the paper authored by _Dario Massa_, _Daniel Cieslinski_, _Amirhossein Naghdi_, and _Stefanos Papanikolaou_. Dive in to explore the capabilities of crystal graph neural networks in substitutional alloying!
+Welcome to the official repository of **Substitutional Alloying Using Crystal Graph Neural Networks**. This repository contains the code used in the paper authored by _Dario Massa_, _Daniel Cieslinski_, _Amirhossein Naghdi_, and _Stefanos Papanikolaou_.
 
 ## Table of Contents
 
