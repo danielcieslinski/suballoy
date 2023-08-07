@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See `LICENSE` file for more deta
 If you use the code or data from this repository in your research, please cite our paper:
 
 ```
-(Placeholder for BibTex citation)
+https://doi.org/10.48550/arXiv.2306.10766
 ```
 
 For further inquiries or if you need assistance, please don't hesitate to open an issue or contact the authors. Enjoy exploring substitutional alloying with crystal graph neural networks!
